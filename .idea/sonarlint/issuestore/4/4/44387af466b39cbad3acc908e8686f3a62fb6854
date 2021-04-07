@@ -1,0 +1,8 @@
+
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Ε­Λέϊÿÿÿÿ8Λί—ωρ.
+L
+java:S1066"/Merge this if statement with the enclosing one.(―θη¶8‰ªªχρ.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Òϋ³8Αχρ.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(θ†‹8ΦΚ§χρ.
+H
+java:S1168,"+Return an empty collection instead of null.(¥Ήο8οΊ†φρ.
